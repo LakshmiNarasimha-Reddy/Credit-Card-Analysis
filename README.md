@@ -91,15 +91,7 @@ The dataset encompasses a substantial pool of 4000 customers, forming the founda
 
 In pursuit of illuminating critical insights into customer spending patterns and understanding the average income utilization across diverse segments, a dedicated analytical exploration has been undertaken. To facilitate a comprehensive understanding, a bespoke "Customers Spend Analysis" page has been meticulously crafted within Power BI. This page serves as the epicenter for unraveling intricate details, housing a plethora of Key Performance Indicators (KPIs) and insightful charts and graphs.
 
-![Screenshot 2024-01-01 174050](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/71827241-ce42-49cd-a7a0-380143a5c138)
-
-#
-
-#### Average Income Utilization:
-
-![a1](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/787df1ca-f219-4304-84d5-66ea1cb9f33e)
-
-* Average Income Utilization stands at 42.82%
+![Screenshot 2024-01-01 174050](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/ee3d13fd17ab4cf788ed8f5fe6ace2fa6e41b707/Amount%20Spend%20Analysis.png)
 
 #### Key Metrics:
 
