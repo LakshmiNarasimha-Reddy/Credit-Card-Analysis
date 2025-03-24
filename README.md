@@ -45,7 +45,7 @@ For demographic classification, I have conducted a thorough customer demographic
 
 #### Total Customers:
 
-![1](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/f7badf16-9235-4927-8569-7ea15580897a)
+![1](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/5d4f9d87fdf4a53a5eeff5fd24036c0ccc300978/Total%20Customers.png)
 
 The dataset encompasses a substantial pool of 4000 customers, forming the foundation of our analysis.
 
