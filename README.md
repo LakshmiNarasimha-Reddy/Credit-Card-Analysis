@@ -6,7 +6,7 @@
 2. [Objective of the Project](#objective-of-the-project)
 3. [Problem Statment](#problem-statment)
 4. [Customer Demographic Analysis](#customer-demographic-analysis)
-5. [Income Utilization & Spending Analysis](#income-utilization--spending-analysis)
+5. [Amount Spending Analysis](#amount--spending-analysis)
 6. [Table Grid View Page](#table-grid-view-page)
 7. [Recomendation](#recomendation-for-next-credit-card)
 
@@ -80,13 +80,13 @@ The dataset encompasses a substantial pool of 4000 customers, forming the founda
 
 #### Marital Status Overview:
 
-![6](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/dd8f3226-ed4e-472a-a08e-b44594b306d7)
+![6](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/d766cb772323038ea9add413bfc61e562175f721/Marital%20Status.png)
 
  * A significant majority of our customers are married (78.41%), emphasizing the importance of considering family-centric financial solutions.
  * Unmarried customers, though a smaller segment, still constitute a substantial 21.6% of our customer base.
 #
 
-## Income Utilization & Spending Analysis  
+## Amount Spending Analysis  
  [🔁Home](#table-of-content)
 
 In pursuit of illuminating critical insights into customer spending patterns and understanding the average income utilization across diverse segments, a dedicated analytical exploration has been undertaken. To facilitate a comprehensive understanding, a bespoke "Customers Spend Analysis" page has been meticulously crafted within Power BI. This page serves as the epicenter for unraveling intricate details, housing a plethora of Key Performance Indicators (KPIs) and insightful charts and graphs.
