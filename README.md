@@ -51,9 +51,7 @@ The dataset encompasses a substantial pool of 4000 customers, forming the founda
 
 
 #### Gender Dynamics:
-![2](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/42d10a31-5d3c-44e1-b182-1053c7a4d1a0)
-![2a](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/7e4bd794-3b90-433d-af45-93f96e61df5e)
-
+![2](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/9be1bd6f0275ef42727321aaaef9a123d0c50bd9/Gender.png)
 
  * The majority of our customer base comprises males, accounting for 64.93%, indicating a slightly male-dominated demographic.
  * However, the substantial presence of females (35.08%) highlights a diverse customer landscape.
