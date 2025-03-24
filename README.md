@@ -102,11 +102,11 @@ In pursuit of illuminating critical insights into customer spending patterns and
 
 #### Total Spend by Gender:
 
-![a8](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/efa98410-ce19-4e79-8ce9-9930690ad91c)
+![a8](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/3dbd2c1212ed5787c8c11a401d49c95ec51f6267/Gender%20Spent.png)
 
  * Males lead in spending with $357M, while females contribute $154M.
 
-#### Spend by Marital Status:
+#### Spend by Occupation:
 
 ![a9](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/3dbd2c1212ed5787c8c11a401d49c95ec51f6267/Gender%20Spent.png)
 
@@ -114,7 +114,7 @@ Married individuals top the spending charts with $429M, surpassing unmarried ind
 
 #### Total Spend by Month:
 
-![a10](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/fe253527-5d96-464e-9f00-6df960d2fe6c)
+![a10](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/c43baf73362aab1fd0d8973a66f54ec77691660d/Month%20Spent.png)
 
 September emerges as the highest spending month, accounting for $116M, constituting 21.84% of the total spend.
 
