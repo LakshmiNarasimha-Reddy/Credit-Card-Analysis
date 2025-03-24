@@ -66,7 +66,7 @@ The dataset encompasses a substantial pool of 4000 customers, forming the founda
 
 #### City-wise Distribution:
 
-![4](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/962b9a4b-dad7-4cdb-a4c2-e865fd906d3d)
+![4](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/e233d5f8d184b1ba9036377f1274fe208cea7811/City.png)
 
  * Mumbai takes the lead in terms of customer concentration, with 1078 customers, predominantly males.
  * Other major cities like Chennai, Bangalore, and Delhi NCR also contribute significantly to our customer base.
