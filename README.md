@@ -93,23 +93,9 @@ In pursuit of illuminating critical insights into customer spending patterns and
 
 ![Screenshot 2024-01-01 174050](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/ee3d13fd17ab4cf788ed8f5fe6ace2fa6e41b707/Amount%20Spend%20Analysis.png)
 
-#### Key Metrics:
-
-![a2](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/6955c9c1-cf28-4955-9492-a1ba909b4b5f)
-
- * Total Income in 6 months: $1240M
- * Total Spends in 6 months: $531M
-
-#### Total Spends by Category:
-
-![a4](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/ad937819-67b7-4136-bf61-487cd950d1d6)
-
- * Highest spending in bills category ($105M) with an average utilization of 46%.
- * Other significant categories: Grocery ($86M), Electronics ($80M), and the least in Others category ($16M).
-
 #### Total Spend by Payment Type:
 
-![a7](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/5f11bc4a-cb23-4a66-821e-ce79eda9250e)
+![a7]()
 
  * Credit cards dominate spending, accounting for $216M with a utilization rate of 17.45%.
  * Other payment types include UPI, debit cards, and net banking.
