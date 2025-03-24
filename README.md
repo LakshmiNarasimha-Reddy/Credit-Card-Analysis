@@ -58,7 +58,7 @@ The dataset encompasses a substantial pool of 4000 customers, forming the founda
 
 #### Age Group Profiling:
 
-![3](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/51ee3043-cdff-41da-9873-5320e4b8050b)
+![3](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/dbe7802cf8e978fa74ee738b96746f42ac506b74/Age%20Group.png)
 
  * The age group 25-35 emerges as the most significant segment, with 1498 customers. This group, especially males, exhibits a strong presence.
  * Customers aged 35-45 also form a substantial portion (1273), demonstrating a balanced distribution between genders.
