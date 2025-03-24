@@ -5,13 +5,10 @@
 1. [About Mitron Bank](#about-mitron-bank)
 2. [Objective of the Project](#objective-of-the-project)
 3. [Problem Statment](#problem-statment)
-4. [Demographic Classification](#demographic-classification)
+4. [Customer Demographic Analysis](#customer-demographic-analysis)
 5. [Income Utilization & Spending Analysis](#income-utilization--spending-analysis)
 6. [Table Grid View Page](#table-grid-view-page)
 7. [Recomendation](#recomendation-for-next-credit-card)
-8. [Footer](#dont-forget-to-give-a-start-to-this-project-because-its-motivate-me-and-also-please-follow-me-on-linkeldin-and-please-consider-me-for-any-internship-or-entry-level-data-analyst-role-i-need-a-job-or-internship-even-thought-its-a-free-or-paid-thanks-in-advance)
-
-
 
 #
 ### About Mitron Bank 
@@ -44,7 +41,7 @@ The objective is to analyze this data and provide actionable, data-driven recomm
 
 For demographic classification, I have conducted a thorough customer demographic analysis using Power BI, and here are the key findings presented in a visually engaging manner:
 
-![Page 1](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/7eadc5bd-1c49-4073-8e37-b78f81375063)
+[![Page 1](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/8162ca3b0b6f6d49fc6f2e3645090223c4fb6648/Customer%20Analysis.png)
 
 #### Total Customers:
 
