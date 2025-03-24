@@ -108,7 +108,7 @@ In pursuit of illuminating critical insights into customer spending patterns and
 
 #### Spend by Occupation:
 
-![a9](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/3dbd2c1212ed5787c8c11a401d49c95ec51f6267/Gender%20Spent.png)
+![a9](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/6358d03d64bb51cdb4934d8270bdcbfaa84f4323/Occupation%20Spent.png)
 
 Married individuals top the spending charts with $429M, surpassing unmarried individuals at $102M.
 
