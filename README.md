@@ -73,7 +73,7 @@ The dataset encompasses a substantial pool of 4000 customers, forming the founda
 
 #### Occupational Insight:
 
-![5](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/11674e74-f43c-4a41-a23b-c57f86c4a211)
+![5](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/1d3618ee7a3b836485aa1d6936ced67fc14ca11f/Occupation.png)
 
  * Salaried IT Employees represent a large portion of our customers (1294), showcasing a tech-centric demographic.
  * The diversity in occupations, including freelancers and business owners, presents an opportunity to tailor services for varied professional needs.
