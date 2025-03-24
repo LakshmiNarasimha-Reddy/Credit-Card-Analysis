@@ -95,7 +95,7 @@ In pursuit of illuminating critical insights into customer spending patterns and
 
 #### Total Spend by Payment Type:
 
-![a7]()
+![a7](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/09b17f8b58ad857fc8a471b3c82fef15f339a3f0/Payment%20Type.png)
 
  * Credit cards dominate spending, accounting for $216M with a utilization rate of 17.45%.
  * Other payment types include UPI, debit cards, and net banking.
