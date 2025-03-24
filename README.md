@@ -123,7 +123,7 @@ September emerges as the highest spending month, accounting for $116M, constitut
 ## Table Grid View Page:  
  [🔁Home](#table-of-content)
 
-![3 page](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/5e5baf0d-0dc8-47c1-a153-3d2ed1fa7116)
+![3 page](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/65e2e0171590aca23582610867d81e60edde358f/Full%20Grid%20View.png)
 
 In addition to these insights, a third page has been dedicated to a detailed Table Grid View, offering a granular examination of all customer data. This tabular format enables an in-depth exploration of individual customer details, facilitating more nuanced and personalized analyses.
 
@@ -157,15 +157,3 @@ Ensure the credit card supports contactless payments and integrates with popular
 
 Implement advanced security features such as fraud alerts, biometric authentication, and virtual card numbers to enhance the safety of transactions. Communicate these security measures to build trust among users.
 #
-
- [🔁Home](#table-of-content)
-
-
-
-Created & Presented by -Saddam Ansari @ Aspiring Data Analyst
-
-
-Date- 03/01/2024
-
-
-Place- Bihar, India
