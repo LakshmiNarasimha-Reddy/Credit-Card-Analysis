@@ -110,7 +110,7 @@ In pursuit of illuminating critical insights into customer spending patterns and
 
 ![a9](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/6358d03d64bb51cdb4934d8270bdcbfaa84f4323/Occupation%20Spent.png)
 
-Married individuals top the spending charts with $429M, surpassing unmarried individuals at $102M.
+ Salaried IT Employees top the spending charts with $243.72M, Bussiness Owners at $88M.
 
 #### Total Spend by Month:
 
