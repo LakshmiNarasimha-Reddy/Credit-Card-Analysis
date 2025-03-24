@@ -108,7 +108,7 @@ In pursuit of illuminating critical insights into customer spending patterns and
 
 #### Spend by Marital Status:
 
-![a9](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/431b646c-97a2-4d43-97ed-d8902f65bf43)
+![a9](https://github.com/LakshmiNarasimha-Reddy/Credit-Card-Analysis/blob/3dbd2c1212ed5787c8c11a401d49c95ec51f6267/Gender%20Spent.png)
 
 Married individuals top the spending charts with $429M, surpassing unmarried individuals at $102M.
 
